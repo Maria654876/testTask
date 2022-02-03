@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nameLocation">Название локации</string>
+    <string name="location">ЛОКАЦИИ</string>
+</resources>
